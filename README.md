@@ -1,80 +1,20 @@
-<p align="center">   \<img src="./github-banner.png." width="100%" alt="Ashwini Gadad - GitHub Banner"/> </p>
+<p align="center">   <img src="./github-banner.png" width="100%" alt="Ashwini Gadad - GitHub Banner"/> </p>
 
-<h1 align="center">Hey there! I'm Ashwini Gadad 👋</h1>
+# 💫 About Me:
+I am software engineer <br>i am student
 
-<h3 align="center">💻 Computer Science Engineering Student | Aspiring Software Developer</h3>
 
-<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day)!" alt="Typing SVG"/> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ashwini__18_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ASHWINI GADAD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ASHWINI GADAD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinitgadad@gmail.com) 
 
----
-
-## 🚀 About Me
-
-I'm a Computer Science Engineering student passionate about technology, innovation, and building meaningful digital solutions.
-
-- 🎓 Computer Science Engineering | 2027 Graduate
-- 🤖 Interested in Artificial Intelligence and AI-powered solutions.
-- 🌐 Exploring Software Development and Networking.
-- ⚙️ Learning DevOps and modern development practices.
-- 💡 Interested in turning creative ideas into real-world projects.
-- 🚀 Always learning, experimenting, and improving.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AshwiniTGadad15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AshwiniTGadad15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshwiniTGadad15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AshwiniTGadad15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Areas of Interest
-
-<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)" alt="Artificial Intelligence"/>
-&#x20; \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" alt="Software Development"/>
-&#x20; \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)" alt="Networking"/>
-&#x20; \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)" alt="DevOps"/>
-</p>
-
----
-
-## 💻 My Projects
-
-Here are some projects from my development journey:
-
-- 🩺 [Medicine Reminder](https://github.com/AshwiniTGadad15/Medicine-Reminder)
-- 🔐 [Authentication Supabase](https://github.com/AshwiniTGadad15/authentication_supabase)
-- 🌐 [My React Homepage](https://github.com/AshwiniTGadad15/my-react-homepage)
-- 📚 [Student Notes Sharing](https://github.com/AshwiniTGadad15/Student_notes_sharing)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Statistics"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=AshwiniTGadad15&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AshwiniTGadad15\&theme=tokyonight\&hide_border=true)" width="65%" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-&#x20; \<a href="[https://github.com/AshwiniTGadad15](https://github.com/AshwiniTGadad15)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)" >
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-</p>
-
----
-
-<h3 align="center">💡 "Building Today, Innovating Tomorrow."</h3>
-
-<p align="center">
-&#x20; ⭐ Thanks for visiting my GitHub profile! Keep exploring and keep building.
-</p>
-
-<p align="center">
-&#x20; \<b>Designed & Developed by Ashwini T Gadad\</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
