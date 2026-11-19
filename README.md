@@ -5,11 +5,13 @@
 </p>
 
 <br/>
+
+
 # Hey there! I'm Ashwini Gadad 👋
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day)!" alt="Typing SVG" /> \</p>
+<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day)!" alt="Typing SVG" /> \</p>
 
 ---
 
