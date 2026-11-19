@@ -28,7 +28,8 @@ I'm a Computer Science Engineering student passionate about technology, innovati
 
 ## 🛠️ Areas of Interest
 
-<p>   \<img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)"/> \</p>
+
+<p>   <img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)"/> </p>
 
 ## 💻 My Projects
 
