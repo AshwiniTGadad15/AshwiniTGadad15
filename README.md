@@ -1,127 +1,186 @@
-\<!-- ================================================= -->
+\<!-- ===================== PROFILE BANNER ===================== -->
 
-\<!-- ASHWINI GADAD | CYBER DEVELOPER PROFILE -->
+\<p align="center">   \<img src="./github-banner.png." width="100%" alt="Ashwini Gadad - Developer Banner"/> \</p>
 
-\<!-- ================================================= -->
+\<h1 align="center">Hey, I'm Ashwini Gadad 👋\</h1>
 
-\<p align="center">   \<img src="./github-banner.png." width="100%" alt="Ashwini Gadad Cyber Developer Banner"/> \</p>
+\<h3 align="center">Computer Science Engineering Student | Aspiring Software Developer\</h3>
 
-\<h1 align="center">   ⚡ ASHWINI GADAD \</h1>
-
-\<h3 align="center">   SOFTWARE DEVELOPER | AI EXPLORER | TECH ENTHUSIAST \</h3>
-
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Initializing+Developer+Environment...;Computer+Science+Engineering+Student;Building+Intelligent+Digital+Solutions;Exploring+AI+%7C+Cloud+%7C+DevOps;Think.+Code.+Innovate.+Repeat](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&duration=2500\&pause=900\&color=00E5FF\&center=true\&vCenter=true\&width=750\&lines=Initializing+Developer+Environment...;Computer+Science+Engineering+Student;Building+Intelligent+Digital+Solutions;Exploring+AI+%7C+Cloud+%7C+DevOps;Think.+Code.+Innovate.+Repeat)." alt="Animated Developer Introduction"/> \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050B18](https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge\&labelColor=050B18)"/>   \<img src="[https://img.shields.io/badge/ROLE-SOFTWARE_DEVELOPER-0078FF?style=for-the-badge&labelColor=050B18](https://img.shields.io/badge/ROLE-SOFTWARE_DEVELOPER-0078FF?style=for-the-badge\&labelColor=050B18)"/>   \<img src="[https://img.shields.io/badge/GRADUATION-2027-8A2BE2?style=for-the-badge&labelColor=050B18](https://img.shields.io/badge/GRADUATION-2027-8A2BE2?style=for-the-badge\&labelColor=050B18)"/> \</p>
-
----
-
-## `01 // SYSTEM INTRODUCTION`
-
-```bash
-┌──[ashwini@developer]─[~]
-└──$ whoami
-
-Name       : Ashwini Gadad
-Education  : Computer Science Engineering
-Graduation : 2027
-Role       : Aspiring Software Developer
-Focus      : AI | Full-Stack | Networking | DevOps
-Status     : Learning, Building & Innovating
-```
-
-I'm a Computer Science Engineering student passionate about technology, software engineering, and creating meaningful digital experiences.
-
-I enjoy exploring emerging technologies, developing applications, solving problems, and transforming ideas into real-world solutions.
-
-**My development philosophy:**
-
-- 🧠 Think beyond limitations.
-- 💻 Write code that solves problems.
-- 🤖 Explore the possibilities of AI.
-- ⚡ Build, experiment and improve.
-- 🚀 Never stop learning.
-
----
-
-## `02 // TECH ARSENAL`
-
-### ⚡ Programming Languages
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript\&theme=dark)" alt="Programming Languages"/> \</p>
-
-### 🌐 Frontend & Application Development
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark](https://skillicons.dev/icons?i=react,nextjs,flutter\&theme=dark)" alt="Frontend and App Development"/> \</p>
-
-### ⚙️ Backend & Database
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,supabase,firebase&theme=dark](https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,supabase,firebase\&theme=dark)" alt="Backend and Database"/>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Building+Real-World+Solutions;Passionate+About+Technology;Always+Learning.+Always+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=21\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Welcome+to+my+GitHub+Profile!;Exploring+Artificial+Intelligence;Building+Real-World+Solutions;Passionate+About+Technology;Always+Learning.+Always+Building)." alt="Typing SVG"/>
 \</p>
 
-### ☁️ Cloud & DevOps
+\<p align="center">
+&#x20; \<a href="[https://github.com/AshwiniTGadad15](https://github.com/AshwiniTGadad15)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-AshwiniTGadad15-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-AshwiniTGadad15-181717?style=for-the-badge\&logo=github)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=AshwiniTGadad15&style=for-the-badge&color=0078D7&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=AshwiniTGadad15\&style=for-the-badge\&color=0078D7\&label=PROFILE+VIEWS)" alt="Profile Views"/>
+\</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student who loves exploring technology, developing creative solutions, and turning ideas into real-world applications.
+
+- 🎓 **Education:** Computer Science Engineering | 2027 Graduate
+- 🤖 **Interests:** Artificial Intelligence and AI-powered applications
+- 💻 **Development:** Software Development and Full-Stack Development
+- 🌐 **Technology:** Computer Networking and Cloud Technologies
+- ⚙️ **Exploring:** DevOps, Automation and Modern Development Tools
+- 🚀 **Mindset:** Learn, Build, Experiment and Innovate
+
+I believe in continuous learning and building projects that solve practical problems.
+
+---
+
+## 🎯 Areas of Focus
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)" alt="Artificial Intelligence"/>
+&#x20; \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" alt="Software Development"/>
+&#x20; \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)" alt="Networking"/>
+&#x20; \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)" alt="DevOps"/>
+\</p>
+
+---
+
+## 🛠️ Technical Skills & Technologies
+
+### 💻 Programming Languages
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=gcp,docker,vercel,github&theme=dark](https://skillicons.dev/icons?i=gcp,docker,vercel,github\&theme=dark)" alt="Cloud and DevOps"/>
+&#x20; \<img src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)" alt="C"/>
+&#x20; \<img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" alt="C++"/>
+&#x20; \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)" alt="Java"/>
+&#x20; \<img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript"/>
+&#x20; \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)" alt="TypeScript"/>
+\</p>
+
+### 🌐 Frontend & Mobile Development
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5"/>
+&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3"/>
+&#x20; \<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)" alt="React"/>
+&#x20; \<img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)" alt="Next.js"/>
+&#x20; \<img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)" alt="Flutter"/>
+&#x20; \<img src="[https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)" alt="React Native"/>
+\</p>
+
+### ⚙️ Backend & Databases
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)" alt="Node.js"/>
+&#x20; \<img src="[https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)" alt="Flask"/>
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)" alt="MongoDB"/>
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" alt="MySQL"/>
+&#x20; \<img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)" alt="Supabase"/>
+&#x20; \<img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)" alt="Firebase"/>
+\</p>
+
+### ☁️ Cloud, Deployment & DevOps
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)" alt="Google Cloud"/>
+&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)" alt="Docker"/>
+&#x20; \<img src="[https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Vercel"/>
+&#x20; \<img src="[https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)" alt="Render"/>
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
 \</p>
 
 ### 🎨 Design & Other Tools
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=figma,git&theme=dark](https://skillicons.dev/icons?i=figma,git\&theme=dark)" alt="Design and Development Tools"/>
-&#x20; \<img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=twilio\&logoColor=white)"/>
-\</p>
-
-### 🎯 Current Areas of Exploration
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/AI-00E5FF?style=for-the-badge&logo=openai&logoColor=black](https://img.shields.io/badge/AI-00E5FF?style=for-the-badge\&logo=openai\&logoColor=black)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Networking-0078FF?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0078FF?style=for-the-badge\&logo=cisco\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Cloud_Computing-8A2BE2?style=for-the-badge&logo=googlecloud&logoColor=white](https://img.shields.io/badge/Cloud_Computing-8A2BE2?style=for-the-badge\&logo=googlecloud\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/DevOps-00C853?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-00C853?style=for-the-badge\&logo=docker\&logoColor=white)"/>
+&#x20; \<img src="[https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)" alt="Adobe"/>
+&#x20; \<img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)" alt="Canva"/>
+&#x20; \<img src="[https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge\&logo=twilio\&logoColor=white)" alt="Twilio"/>
+&#x20; \<img src="[https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white](https://img.shields.io/badge/Uber-000000?style=for-the-badge\&logo=uber\&logoColor=white)" alt="Uber"/>
 \</p>
 
 ---
 
-## `03 // FEATURED PROJECTS`
+## 🚀 Featured Projects
 
-\<p align="center">   \<a href="[https://github.com/AshwiniTGadad15/Medicine-Reminder](https://github.com/AshwiniTGadad15/Medicine-Reminder)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15&repo=Medicine-Reminder&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15\&repo=Medicine-Reminder\&theme=tokyonight\&hide_border=true)" alt="Medicine Reminder"/>   \</a>   \<a href="[https://github.com/AshwiniTGadad15/authentication_supabase](https://github.com/AshwiniTGadad15/authentication_supabase)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15&repo=authentication_supabase&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15\&repo=authentication_supabase\&theme=tokyonight\&hide_border=true)" alt="Supabase Authentication"/>   \</a>   \<a href="[https://github.com/AshwiniTGadad15/my-react-homepage](https://github.com/AshwiniTGadad15/my-react-homepage)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15&repo=my-react-homepage&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15\&repo=my-react-homepage\&theme=tokyonight\&hide_border=true)" alt="React Homepage"/>   \</a>   \<a href="[https://github.com/AshwiniTGadad15/Student_notes_sharing](https://github.com/AshwiniTGadad15/Student_notes_sharing)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15&repo=Student_notes_sharing&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=AshwiniTGadad15\&repo=Student_notes_sharing\&theme=tokyonight\&hide_border=true)" alt="Student Notes Sharing"/>   \</a> \</p>
+Here are some projects from my development journey:
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">🩺 Medicine Reminder\</h3>
+&#x20;     \<p align="center">A project focused on medicine reminder functionality.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/AshwiniTGadad15/Medicine-Reminder](https://github.com/AshwiniTGadad15/Medicine-Reminder)">View Repository →\</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">🔐 Authentication Supabase\</h3>
+&#x20;     \<p align="center">A project exploring authentication using Supabase.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/AshwiniTGadad15/authentication_supabase](https://github.com/AshwiniTGadad15/authentication_supabase)">View Repository →\</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">🌐 My React Homepage\</h3>
+&#x20;     \<p align="center">A React-based web development project.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/AshwiniTGadad15/my-react-homepage](https://github.com/AshwiniTGadad15/my-react-homepage)">View Repository →\</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">📚 Student Notes Sharing\</h3>
+&#x20;     \<p align="center">A project focused on sharing student learning resources.\</p>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/AshwiniTGadad15/Student_notes_sharing](https://github.com/AshwiniTGadad15/Student_notes_sharing)">View Repository →\</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
 ---
 
-## `04 // GITHUB PERFORMANCE`
-
-\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub Statistics"/>   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages"/> \</p>
-
-\<p align="center">   \<img width="75%" src="[https://streak-stats.demolab.com?user=AshwiniTGadad15&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AshwiniTGadad15\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak"/> \</p>
-
----
-
-## `05 // 3D CONTRIBUTION UNIVERSE`
-
-\<p align="center">   \<img src="[https://github-profile-3d-contrib.vercel.app/api?username=AshwiniTGadad15](https://github-profile-3d-contrib.vercel.app/api?username=AshwiniTGadad15)" width="100%" alt="3D GitHub Contribution Graph"/> \</p>
-
----
-
-## `06 // CONTRIBUTION SNAKE`
-
-\<p align="center">   \<img src="[https://raw.githubusercontent.com/AshwiniTGadad15/AshwiniTGadad15/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/AshwiniTGadad15/AshwiniTGadad15/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Animated GitHub Contribution Snake"/> \</p>
-
----
-
-## `07 // CONNECT TO MY NETWORK`
-
-\<p align="center">   \<a href="[https://github.com/AshwiniTGadad15](https://github.com/AshwiniTGadad15)">     \<img src="[https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>   \</a>   \<a href="[https://instagram.com/\_ashwini__18\_](https://instagram.com/_ashwini__18_)">     \<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>   \</a>   \<a href="mailto\:ashwinitgadad\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>   \</a> \</p>
-
----
-
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;Keep+Learning.+Keep+Building.;The+Future+is+Written+in+Code](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&duration=3000\&pause=1000\&color=00E5FF\&center=true\&vCenter=true\&width=600\&lines=ACCESS+GRANTED...;Keep+Learning.+Keep+Building.;The+Future+is+Written+in+Code)." alt="Closing Animation"/> \</p>
-
-\<h3 align="center">⚡ THINK LIKE AN ENGINEER. BUILD LIKE AN INNOVATOR. ⚡\</h3>
+## 📊 GitHub Analytics
 
 \<p align="center">
-&#x20; \<i>Designed & Developed by Ashwini T Gadad\</i>
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=AshwiniTGadad15\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="Ashwini's GitHub Stats"/>
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniTGadad15\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages"/>
+\</p>
+
+\<p align="center">
+&#x20; \<img width="70%" src="[https://streak-stats.demolab.com/?user=AshwiniTGadad15&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=AshwiniTGadad15\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak"/>
+\</p>
+
+---
+
+## 🤝 Let's Connect
+
+\<p align="center">
+&#x20; \<a href="[https://github.com/AshwiniTGadad15](https://github.com/AshwiniTGadad15)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<a href="[https://instagram.com/\_ashwini__18\_](https://instagram.com/_ashwini__18_)">
+&#x20;   \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:ashwinitgadad\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+&#x20; \</a>
+\</p>
+
+\<p align="center">
+&#x20; \<b>LinkedIn and X profile links can be added here once their profile URLs are available.\</b>
+\</p>
+
+---
+
+\<h3 align="center">💡 Building Today. Innovating Tomorrow.\</h3>
+
+\<p align="center">
+&#x20; Thanks for visiting my profile. Let's connect, collaborate and create something meaningful! 🚀
+\</p>
+
+\<p align="center">
+&#x20; \<i>Designed with passion by Ashwini T Gadad\</i>
 \</p>
