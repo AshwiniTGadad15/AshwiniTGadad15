@@ -4,7 +4,7 @@
 
 \<!-- ================================================= -->
 
-\<p align="center">   \<img src="./github-banner.png" width="100%" alt="Ashwini Gadad Cyber Developer Banner"/> \</p>
+\<p align="center">   \<img src="./github-banner.png." width="100%" alt="Ashwini Gadad Cyber Developer Banner"/> \</p>
 
 \<h1 align="center">   ⚡ ASHWINI GADAD \</h1>
 
