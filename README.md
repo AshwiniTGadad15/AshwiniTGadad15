@@ -1,7 +1,19 @@
-<p align="center">   <img src="./github-banner.png" width="100%" alt="Ashwini Gadad - GitHub Banner"/> </p>
+<p align="center">   <img src="./github-banner.png." width="100%" alt="Ashwini Gadad - GitHub Banner"/> </p>
 
 # 💫 About Me:
-I am software engineer <br>i am student
+I'm a Computer Science Engineering student passionate about technology, innovation, and building meaningful digital solutions.
+
+🎓 Computer Science Engineering | 2027 Graduate
+
+🤖 Interested in Artificial Intelligence and AI-powered solutions.
+
+🌐 Exploring Software Development and Networking.
+
+⚙️ Learning DevOps and modern development practices.
+
+💡 Interested in turning creative ideas into real-world projects.
+
+🚀 Always learning, experimenting, and improving.
 
 
 ## 🌐 Socials:
