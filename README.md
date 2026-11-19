@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Ashwini Gadad - Developer Banner">
+</p>
 # Hey there! I'm Ashwini Gadad 👋
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
