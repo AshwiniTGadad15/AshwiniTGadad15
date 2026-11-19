@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Ashwini Gadad - Developer Banner">
+  <img src="./github-banner.png"
+       alt="Ashwini Gadad GitHub Banner"
+       width="100%">
 </p>
+
+<br/>
 # Hey there! I'm Ashwini Gadad 👋
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
