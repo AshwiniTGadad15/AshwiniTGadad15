@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png"
+  <img src="./github-banner.png."
        alt="Ashwini Gadad GitHub Banner"
        width="100%">
 </p>
