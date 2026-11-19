@@ -11,7 +11,7 @@
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
 
-<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day)!" alt="Typing SVG" /> \</p>
+<p align="center">   <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+and+Growing+Every+Day)!" alt="Typing SVG" > </p>
 
 ---
 
@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student passionate about technology, innovati
 
 ## 🛠️ Areas of Interest
 
-\<p>   \<img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)"/> \</p>
+<p>   \<img src="[https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cisco\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge\&logo=docker\&logoColor=white)"/> \</p>
 
 ## 💻 My Projects
 
